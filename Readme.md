@@ -1,4 +1,4 @@
-# Backend learning series - folowing hitesh sir youtube channel chai or code
+# Backend learning series - Node.js, MongoDb, Data Modeling
 
 This is a video series on backen with javascript
 
